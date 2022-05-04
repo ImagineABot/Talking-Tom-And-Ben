@@ -1,4 +1,4 @@
-# Talking-Tom-Ben
+# Talking-Tom-And-Ben
 Increase the fun in your server with two pretty cute pets, Tom the cat and Ben the dog! 
 
 - 👀 Increase the fun in your server with two pretty cute pets, Tom the cat and Ben the dog! You can even talk with them! Talking Tom & Ben is based on the Outfit7’s mobile games “My Talking Tom 2” and “Talking Ben the Dog”, BUT it is NOT affiliated with Outfit7 Inc!
